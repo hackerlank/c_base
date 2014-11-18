@@ -27,6 +27,6 @@ KF_PROCESS_ERROR(Condition) // 此 condition 不成立时，跳转到 ExitFailed
 
 KF_PROCESS_SUCCESS(Condition) // 此 condition 成立时，跳转到 ExitSucc 标签
 
-** 其他 **
+**其他**
 
 void FindMax (int n, ...)
